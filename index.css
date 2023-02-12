@@ -1,0 +1,6 @@
+header, footer{
+    text-align:center;
+    background-color: red;
+    height: 100px;
+    line-height: 100px;
+}
